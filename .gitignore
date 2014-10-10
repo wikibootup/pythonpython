@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 *.pyc
 *.ipynb*
 *.txt
 *_Dockerfile
+=======
+*.md
+*.pyc
+>>>>>>> efb2688752cc0f0861d1cf14983e6c39c0711ed7
